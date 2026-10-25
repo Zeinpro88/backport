@@ -1,0 +1,8 @@
+[{
+  "modid": "backport",
+  "name": "Backport",
+  "description": "Контент из Minecraft 1.8+ для 1.7.10",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["You"]
+}]
